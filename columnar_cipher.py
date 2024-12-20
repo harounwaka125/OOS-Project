@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# this will columnar_cipher algo ...
-=======
->>>>>>> bfc46e610d82d5b96baa1d2f3dccf10d7e11fee8
 import math
 
 def columnar_encrypt(text, key):
