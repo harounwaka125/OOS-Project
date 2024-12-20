@@ -9,7 +9,7 @@ This project provides a graphical user interface (GUI) to demonstrate three popu
 
 1. Clone the repository:
     ```
-    git clone https://github.com/harounwaka125/Encryption-Decryption-Project.git
+    git clone https://github.com/harounwaka125/OOS-Project
     ```
 
 2. Install Python and Tkinter (if not already installed):
