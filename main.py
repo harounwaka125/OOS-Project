@@ -1,5 +1,3 @@
-#this will be the main file to run the project.
-
 from tkinter import *
 from caesar_cipher import Caesar_Cipher_E, Caesar_Cipher_D
 from playfair_cipher import Playfair_Cipher_E, Playfair_Cipher_D
