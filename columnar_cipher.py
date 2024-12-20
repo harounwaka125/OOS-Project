@@ -35,3 +35,4 @@ def columnar_decrypt(textplain, key):
             textplain += text[i][pointer]
         pointer += 1
     return textplain
+
