@@ -1,3 +1,4 @@
+#this is algorithm of playfair
 def Generate_Table(key):
     alphabet = "ABCDEFGHIKLMNOPQRSTUVWXYZ"
     table = []
