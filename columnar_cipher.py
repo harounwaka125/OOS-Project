@@ -1,5 +1,5 @@
 import math
-
+#columnar encrypt function
 def columnar_encrypt(text, key):
     text = text.replace(" ", "")
     cipherText = [""] * key
@@ -9,7 +9,7 @@ def columnar_encrypt(text, key):
             cipherText[row] += text[pointer]
             pointer += key
     return "".join(cipherText)
-
+#columnar decrypt function 
 
 def columnar_decrypt(textplain, key):
     textplain = textplain.replace(" ", "")
